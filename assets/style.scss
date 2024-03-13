@@ -469,12 +469,14 @@ body:after {
   font-kerning: auto;
   font-feature-settings: "kern","liga","dlig","hlig","cswh";
   line-height: 1.2;
+  font-size: 24px; /* Increased font size */
 }
 
 .page h2, .page h3 {
   font-family: 'Great Vibes', cursive;
-  text-align: left; /* Adjusted alignment */
-  font-weight: bold;
+  text-align: left;
+  font-weight: normal;
+  font-size: larger;
   font-kerning: auto;
   font-feature-settings: "kern","liga","dlig","hlig","cswh";
   line-height: 1.2;
