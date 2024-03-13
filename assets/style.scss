@@ -462,7 +462,7 @@ body:after {
   line-height: 1.2;
 }
 
-.page h1{
+.page h1 {
   font-family: 'Great Vibes', cursive;
   text-align: center;
   font-weight: bold;
@@ -471,6 +471,14 @@ body:after {
   line-height: 1.2;
 }
 
+.page h2, .page h3 {
+  font-family: 'Great Vibes', cursive;
+  text-align: left; /* Adjusted alignment */
+  font-weight: bold;
+  font-kerning: auto;
+  font-feature-settings: "kern","liga","dlig","hlig","cswh";
+  line-height: 1.2;
+}
 .author_title{
   text-align: center;
   color: #939aa1;
