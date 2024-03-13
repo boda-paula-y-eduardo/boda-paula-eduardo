@@ -6,10 +6,9 @@ permalink: /el-evento/
 
 Bienvenidos a la página principal de nuestra boda. Aquí encontrarás toda la información actualizada sobre el evento para disfrutar al máximo de la celebración.
 
-## Queremos verte en nuestra boda 🥹
+## Queremos verte en nuestra boda 🥳
 
-Estamos encantados de invitarte a nuestro evento especial que se llevará a cabo en la [**Finca Valaurea**](/boda-paula-eduardo/lugar/), un lugar muy chulo ubicado a 15 minutos en coche de Aranjuez, Madrid. Hemos preparado una celebración divertida y con buena comida para que disfrutes al máximo de este día tan especial con nosotros.
-
+Estamos encantados de invitarte a nuestro enlace, que se llevará a cabo en la [**Finca Valaurea**](/boda-paula-eduardo/lugar/), un lugar muy chulo ubicado a 15 minutos en coche de Aranjuez, Madrid. Hemos preparado una celebración divertida y con buena comida para que disfrutes al máximo de este día tan especial con nosotros.
 
 ### Detalles del Evento
 
@@ -39,6 +38,8 @@ Te hemos facilitado un mapa interactivo para que puedas llegar sin inconveniente
 <div class="google-map">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12215.150971752646!2d-3.5091569!3d40.0578375!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd420f8e4d938993%3A0x7c135af9880431fc!2sFinca%20Valaurea!5e0!3m2!1sen!2sch!4v1710352161722!5m2!1sen!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+Para más detalles sobre cómo llegar a la Finca Valaurea desde Aranjuez o Madrid, visita nuestra sección de [Lugar](/boda-paula-eduardo/lugar/).
 
 ### Contacto
 
