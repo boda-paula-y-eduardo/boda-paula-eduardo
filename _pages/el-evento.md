@@ -4,11 +4,12 @@ title: El Evento
 permalink: /el-evento/
 ---
 
-Bienvenidos a la página principal de nuestra boda. Aquí encontrarás toda la información necesaria para disfrutar al máximo de nuestra celebración.
+Bienvenidos a la página principal de nuestra boda. Aquí encontrarás toda la información actualizada sobre el evento para disfrutar al máximo de la celebración.
 
-## El Gran Día
+## Queremos verte en nuestra boda 🥹
 
-Estamos encantados de invitarte a nuestro evento especial que se llevará a cabo en la **Finca Valaurea**, un lugar mágico que hemos seleccionado cuidadosamente para compartir nuestro amor y felicidad con familiares y amigos.
+Estamos encantados de invitarte a nuestro evento especial que se llevará a cabo en la [**Finca Valaurea**](/boda-paula-eduardo/lugar/), un lugar muy chulo ubicado a 15 minutos en coche de Aranjuez, Madrid. Hemos preparado una celebración divertida y con buena comida para que disfrutes al máximo de este día tan especial con nosotros.
+
 
 ### Detalles del Evento
 
