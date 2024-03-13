@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Código de Vestimenta
-permalink: /codigo-de-vestimenta/
+permalink: /codigo-vestimenta/
 ---
 
 ## Código de Vestimenta
@@ -19,7 +19,6 @@ Dado que nuestra boda se celebrará el 3 de agosto en Aranjuez, esperamos un dí
 - Camisas de manga corta o manga larga de tejidos transpirables.
 - Se permite la elegancia casual; las corbatas son opcionales.
 - Las camisas hawaianas son siempre bienvenidas.
-- 
 ## Temperaturas Históricas en Aranjuez el 3 de Agosto
 
 Hemos recopilado las temperaturas por horas desde las 18:00 hasta la 02:00 para el 3 de agosto de años anteriores, para que puedas planificar tu vestimenta sabiendo cómo varía la temperatura durante la noche.
