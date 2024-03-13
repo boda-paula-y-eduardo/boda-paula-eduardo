@@ -10,7 +10,7 @@ En esta sección encontrarás toda la información sobre la localización de la 
 
 La celebración tendrá lugar en la hermosa **Finca Valaurea**, ubicada a 15 minutos en coche de Aranjuez, Madrid. Este lugar ha sido elegido con mucho cariño, pensando en el confort y disfrute de todos nuestros invitados. 
 
-![Foto de la finca](/images/finca.jpg)
+![Foto de la finca](/images/finca.jpeg)
 
 ### Dirección
 
