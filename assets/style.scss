@@ -363,6 +363,11 @@ nav {
 // .main
 //
 
+.post h1, .page h1 {
+  font-family: 'Great Vibes', cursive;
+  /* Other styles remain unchanged */
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
