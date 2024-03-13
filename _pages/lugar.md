@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lugar
-permalink: /about/
+permalink: /lugar/
 ---
 
 En esta sección encontrarás toda la información sobre la localización de la boda.
