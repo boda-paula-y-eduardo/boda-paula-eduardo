@@ -1,33 +1,35 @@
 ---
 layout: page
-permalink: /archive/
-title: Posts Archive
+title: Alojamiento
+permalink: /alojamiento/
 ---
 
+Para garantizar tu comodidad durante nuestra celebración, hemos seleccionado cuidadosamente algunos hoteles cercanos a la Finca Valaurea. A continuación, encontrarás detalles sobre cada hotel recomendado, incluyendo información de contacto y cómo reservar.
 
-<div id="archives">
-  <section id="archive">
-     <h3>Most Recent Posts</h3>
-      {%for post in site.posts %}
-      {% unless post.next %}
-      <ul class="this">
-          {% else %}
-          {% capture month %}{{ post.date | date: '%B %Y' }}{% endcapture %}
-          {% capture nmonth %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
-          {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-          {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-          {% if year != nyear %}
-      </ul>
-      <h2 style="text-align:left;">{{ post.date | date: '%Y' }}</h2>
-      <ul class="past">
-          {% endif %}
-          {% if month != nmonth %}
-          <h3 style="text-align:left;">{{ post.date | date: '%B %Y' }}</h3>
-          {% endif %}
-          {% endunless %}
-          <p><b><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></b> - {% if post.date and post.date != "" %}{{ post.date | date: "%e %B %Y" }}{%endif%}</p>
-          {% endfor %}
-      </ul>
-    <h3>Oldest Posts</h3>
-  </section>
-</div>
+## NH Hotel, Aranjuez
+
+El NH Hotel en Aranjuez es una opción excelente por su comodidad y cercanía a la Finca Valaurea. Ofrece una variedad de servicios para asegurar una estancia agradable.
+
+### Características
+- Habitaciones cómodas con Wi-Fi gratuito.
+- Desayuno incluido.
+- Servicio de transporte a la Finca Valaurea disponible bajo petición.
+
+### Reservas
+Para realizar una reserva, puedes llamar al +blabllabla o reservar directamente en su [sitio web](https://www.nh-hoteles.es). Menciona la boda de [Nombres de los Novios] para acceder a una tarifa especial.
+
+## Barceló Hotel, Aranjuez
+
+El Barceló Hotel es otra excelente elección, conocido por su elegancia y servicio excepcional. Está convenientemente ubicado a poca distancia en coche de la Finca Valaurea.
+
+### Características
+- Habitaciones de lujo con todas las comodidades modernas.
+- Spa y zona de wellness.
+- Piscina y gimnasio.
+
+### Reservas
+Para reservar, contacta al hotel al +blablabla o visita su página web [Barceló Hotel Aranjuez](https://www.barcelo.com). Asegúrate de mencionar la boda de [Nombres de los Novios] para obtener un descuento especial.
+
+---
+
+Recomendamos realizar tus reservas lo antes posible para asegurar la disponibilidad y las tarifas especiales. Si tienes alguna pregunta o necesitas ayuda con tu alojamiento, no dudes en contactarnos.
