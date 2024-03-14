@@ -13,6 +13,8 @@ description: Página web de la boda del año.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/sloth.png
+avatar2: /images/sloth_2.png # Path to the second avatar image
+
 
 #
 # Flags below are optional
