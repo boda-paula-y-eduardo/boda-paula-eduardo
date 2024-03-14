@@ -271,40 +271,27 @@ p > img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $darkGray;
-  display: flex; // Use Flexbox
-  align-items: center; // Align items vertically in the center
-
-  @include mobile {
-    flex-direction: column; // Stack items vertically on smaller screens
-    text-align: center;
-  }
+  display: flex;
+  flex-direction: column; // Stack items vertically
+  align-items: center; // Center items horizontally
+  text-align: center;
 }
+
 .site-avatar {
-  // Adjusted for Flexbox; removed float properties
-  display: flex; // Display avatars side by side
-  justify-content: center; // Center avatars horizontally
-  gap: 10px; // Add some space between the two avatars
+  display: flex;
+  justify-content: center;
+  gap: 10px; // Adjust if more space is needed between the avatars
 
   img {
     border-radius: 5px;
-    width: 70px; // Adjust width as necessary
+    width: 70px;
     height: 70px;
     object-fit: cover;
   }
-
-  @include mobile {
-    justify-content: center; // Ensure avatars are centered on mobile
-    margin-bottom: 15px; // Add some space between avatars and site info on mobile
-  }
 }
-
 .site-info {
   // Removed float properties, adjusted for Flexbox layout
-  @include mobile {
-    display: block;
-    margin: 0 auto;
-    text-align: center; // Center the text on mobile
-  }
+
 }
 
 .site-name {
