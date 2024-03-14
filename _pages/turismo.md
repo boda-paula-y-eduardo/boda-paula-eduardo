@@ -35,10 +35,7 @@ Aranjuez cuenta con una selección de restaurantes clásicos que no te puedes pe
 Aparte de la comida típica Madrileña, en Aranjuez podrás encontrar platos típicos de la región como:
 
 - **Zarajos**: una deliciosa especialidad castellana hecha con tripas de cordero.
-- **Rabo de toro**: aunque fue popularizado en Córdoba, sabemos de buena tinta que el rabo de toro de Aranjuez lo hacen de maravilla.
-- **Migas manchegas**: un plato tradicional de la región de castellanomanchega.
 - **Tomates de Aranjuez**: Aranjuez es famoso por sus tomates. Afortunadamente, la temporada alta de los tomates de Aranjuez es en verano, por lo que podrás disfrutar de ellos durante tu visita.
-- **Torrijas**: un postre típico de Semana Santa, pero que se puede encontrar en la mayoría de los restaurantes durante todo el año.
 - **Ancas de rana**: un plato que se ha convertido en un símbolo de la gastronomía de Aranjuez.
 
 Esperamos que estas sugerencias hagan tu visita a Aranjuez aún más especial. ¡Estamos emocionados de compartir nuestro día contigo!
