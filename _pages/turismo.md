@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Turismo
+title: Explora Aranjuez
 permalink: /turismo/
 ---
 
+![Aranjuez](/boda-paula-eduardo/images/palacio.jpg)
 
 Para aquellos invitados que nos visitan desde fuera de Aranjuez, queremos asegurarnos de que su experiencia sea inolvidable, tanto durante nuestra boda como en su estancia en esta hermosa ciudad. Aquí hay algunas sugerencias para disfrutar plenamente de Aranjuez:
 
