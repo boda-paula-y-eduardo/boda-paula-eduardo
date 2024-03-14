@@ -3,6 +3,8 @@ layout: page
 title: Turismo
 permalink: /turismo/
 ---
+
+
 Para aquellos invitados que nos visitan desde fuera de Aranjuez, queremos asegurarnos de que su experiencia sea inolvidable, tanto durante nuestra boda como en su estancia en esta hermosa ciudad. Aquí hay algunas sugerencias para disfrutar plenamente de Aranjuez:
 
 ### Explora los Jardines de Aranjuez
@@ -15,14 +17,27 @@ Te invitamos a descubrir los impresionantes jardines de Aranjuez, como el Jardí
 
 El Palacio Real de Aranjuez es una parada obligatoria en tu visita. Recomendamos programar esta visita por la mañana. Este palacio no solo es una joya de la arquitectura con una rica historia, sino también un lugar ideal para disfrutar de la belleza de Aranjuez.
 
-![Palacio Real de Aranjuez](/boda-paula-eduardo/images/palacio-aranjuez.jpg)
+![Palacio Real de Aranjuez](/boda-paula-eduardo/images/palacio_aranjuez.jpg)
 
-### Paseo en Canoa por el Río Tajo
+### Paseo en Piragua por el Río Tajo
 
-Para una experiencia única, disfruta de un paseo en canoa por el río Tajo durante las últimas horas de la tarde. Es una forma excepcional de contemplar la ciudad desde una perspectiva diferente, sumergiéndote en la tranquilidad del río.
+Si buscas una actividad deportiva y el clima es favorable (especialmente si no hace mucho calor), también puedes alquilar una canoa y dar un paseo por el río Tajo. Esta actividad es una excelente manera de disfrutar de la naturaleza y ver el entorno de Aranjuez desde una perspectiva diferente.
+
+![Río Tajo](/boda-paula-eduardo/images/piraguas.jpg)
 
 ### Gastronomía en Restaurantes Emblemáticos
 
-Aranjuez cuenta con una selección de restaurantes clásicos que no te puedes perder, como Corral de La Abuela y La Rana Verde, donde podrás disfrutar de la gastronomía local en un ambiente acogedor. No dejes de probar el famoso fresas de Aranjuez, un verdadero deleite.
+Aranjuez cuenta con una selección de restaurantes clásicos que no te puedes perder, como, Casa Pablo, El Corral de La Abuela y El Rana Verde, donde podrás disfrutar de la gastronomía local en un ambiente acogedor.
+
+![Zarajos](/boda-paula-eduardo/images/zarajos.jpg)
+
+Aparte de la comida típica Madrileña, en Aranjuez podrar encontrar platos típicos de la región como:
+
+- **Zarajos**: una deliciosa especialidad castellana hecha con tripas de cordero.
+- **Rabo de toro**: aunque fue popularizado en Córdoba, sabemos de buena tinta que el rabo de toro de Aranjuez lo hacen de maravilla.
+- **Migas manchegas**: un plato tradicional de la región de castellanomanchega.
+- **Tomates de Aranjuez**: Aranjuez es famoso por sus tomates. Afortunadamente, la temporada alta de los tomates de Aranjuez es en verano, por lo que podrás disfrutar de ellos durante tu visita.
+- **Torrijas**: un postre típico de Semana Santa, pero que se puede encontrar en la mayoría de los restaurantes durante todo el año.
+- **Ancas de rana**: un plato que se ha convertido en un símbolo de la gastronomía de Aranjuez.
 
 Esperamos que estas sugerencias hagan tu visita a Aranjuez aún más especial. ¡Estamos emocionados de compartir nuestro día contigo!
