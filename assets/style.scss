@@ -268,33 +268,84 @@ p > img {
   margin-bottom: 25px;
 }
 
+// Define mobile breakpoint for consistency
+@mixin mobile {
+  @media (max-width: 768px) { @content; }
+}
+
+// Define desktop breakpoint
+@mixin desktop {
+  @media (min-width: 769px) { @content; }
+}
+
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $darkGray;
-  display: flex; // Use Flexbox
-  align-items: center; // Align items vertically in the center
+  display: flex;
+  align-items: center;
+  justify-content: space-between; // Ensure elements are spaced out
 
   @include mobile {
-    flex-direction: column; // Stack items vertically on smaller screens
+    flex-direction: column;
     text-align: center;
   }
 }
+
 .site-avatar {
-  // Adjusted for Flexbox; removed float properties
-  display: flex; // Display avatars side by side
-  justify-content: center; // Center avatars horizontally
-  gap: 10px; // Add some space between the two avatars
+  display: flex;
+  justify-content: center;
+  gap: 10px;
 
   img {
     border-radius: 5px;
-    width: 70px; // Adjust width as necessary
+    width: 70px;
     height: 70px;
     object-fit: cover;
   }
 
+  // Hide the second avatar on desktop within .site-avatar
+  @include desktop {
+    .mobile-avatar {
+      display: none;
+    }
+  }
+
   @include mobile {
-    justify-content: center; // Ensure avatars are centered on mobile
-    margin-bottom: 15px; // Add some space between avatars and site info on mobile
+    justify-content: center;
+    margin-bottom: 15px;
+  }
+}
+
+.site-info {
+  @include mobile {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  // Adjust .site-info to flex container on desktop to include the second avatar
+  @include desktop {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px; // Adjust gap as needed
+
+    // Show the desktop-avatar next to the site name
+    .desktop-avatar {
+      display: block; // Ensure the second avatar is displayed
+      width: 70px; // Match the first avatar's size
+      height: 70px;
+      border-radius: 5px;
+      object-fit: cover;
+    }
+  }
+}
+
+// Additional desktop-specific adjustments
+@include desktop {
+  .masthead {
+    flex-direction: row; // Override for desktop if needed
+    justify-content: space-between; // Adjust based on your layout
   }
 }
 

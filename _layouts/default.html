@@ -22,13 +22,15 @@
           <header class="masthead clearfix">
             <a href="{{ site.baseurl }}/" class="site-avatar">
               <img src="{{ site.baseurl }}{{ site.avatar }}" alt="Avatar 1" />
-              <img src="{{ site.baseurl }}{{ site.avatar2 }}" alt="Avatar 2" style="margin-left: 10px;" />
+              <!-- Second avatar for mobile hidden on desktop -->
+              <img src="{{ site.baseurl }}{{ site.avatar2 }}" alt="Avatar 2" class="mobile-avatar" />
             </a>
             <div class="site-info">
               <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
               <p class="site-description">{{ site.description }}</p> 
+              <!-- Second avatar for desktop only -->
+              <img src="{{ site.baseurl }}{{ site.avatar2 }}" alt="Avatar 2" class="desktop-avatar" style="display: none;" />
             </div>
-
             <nav>
               <a href="{{ site.baseurl }}/">Home</a>
               <a href="{{ site.baseurl }}/registro">Registro</a>
