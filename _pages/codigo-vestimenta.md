@@ -18,9 +18,9 @@ Dado que nuestra boda se celebrará el 3 de agosto en Aranjuez, esperamos un dí
 - Se permite la elegancia casual; las corbatas son opcionales.
 - Las camisas hawaianas son siempre bienvenidas.
   
-## Temperaturas Históricas en Aranjuez el 3 de Agosto
+## Temperatura esperada
 
-Hemos recopilado las temperaturas por horas para el 3 de agosto de los ultimos años, para que puedas planificar tu vestimenta sabiendo cómo varía la temperatura durante la noche.
+Si bien no podemos predecir con exactitud el clima, aquí tienes una idea general de cómo ha sido el tiempo en años anteriores:
 
 | Hora | 2020 | 2021 | 2022 | 2023 |
 |------|------|------|------|------|
@@ -34,4 +34,6 @@ Hemos recopilado las temperaturas por horas para el 3 de agosto de los ultimos a
 | 01:00 | 25°C | 24°C | 28°C | 23°C |
 | 02:00 | 25°C | 24°C | 27°C | 22°C |
 
-Esperamos que esta información te ayude a vestirte de manera cómoda y adecuada para nuestra boda. Si tienes alguna duda o necesitas más información, no dudes en contactarnos.
+En general, esperamos que las temperaturas sean altas durante la ceremonia y el cóctel, pero que disminuyan a medida que avance la noche. Se espera un clima seco y soleado, con pocas posibilidades de lluvia y cierta probabilidad de olas de calor.
+
+Esperamos que esta información te ayude a vestirte de manera cómoda y adecuada. Si tienes alguna duda o necesitas más información, no dudes en contactarnos.
