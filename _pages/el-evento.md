@@ -4,9 +4,7 @@ title: El Evento
 permalink: /el-evento/
 ---
 
-Bienvenidos a la página principal de nuestra boda. Aquí encontrarás toda la información actualizada sobre el evento para disfrutar al máximo de la celebración.
-
-## Queremos verte en nuestra boda
+## ¡Queremos verte en nuestra boda!
 
 Estamos encantados de invitarte a nuestro enlace, que se llevará a cabo en la [**Finca Valaurea**](/boda-paula-eduardo/lugar/), un lugar muy chulo ubicado a 15 minutos en coche de Aranjuez, Madrid. Hemos preparado una celebración divertida y con buena comida para que disfrutes al máximo de este día tan especial con nosotros.
 
@@ -46,3 +44,4 @@ Para más detalles sobre cómo llegar a la Finca Valaurea desde Aranjuez o Madri
 Si tienes alguna pregunta o necesitas más información, no dudes en [contactarnos](mailto:tu_email@ejemplo.com).
 
 ¡Estamos emocionados de verte y celebrar juntos este día tan especial!
+
