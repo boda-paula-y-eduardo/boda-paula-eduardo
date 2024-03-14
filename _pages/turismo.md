@@ -32,7 +32,7 @@ Aranjuez cuenta con una selección de restaurantes clásicos que no te puedes pe
 
 ![Zarajos](/boda-paula-eduardo/images/zarajos.jpg)
 
-Aparte de la comida típica Madrileña, en Aranjuez podrar encontrar platos típicos de la región como:
+Aparte de la comida típica Madrileña, en Aranjuez podrás encontrar platos típicos de la región como:
 
 - **Zarajos**: una deliciosa especialidad castellana hecha con tripas de cordero.
 - **Rabo de toro**: aunque fue popularizado en Córdoba, sabemos de buena tinta que el rabo de toro de Aranjuez lo hacen de maravilla.
