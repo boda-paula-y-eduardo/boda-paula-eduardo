@@ -6,8 +6,9 @@ permalink: /alojamiento/
 
 Para garantizar tu comodidad durante nuestra celebración, hemos seleccionado cuidadosamente algunos hoteles cercanos a la Finca Valaurea. A continuación, encontrarás detalles sobre cada hotel recomendado, incluyendo información de contacto y cómo reservar.
 
-## Hotel NH Aranjuez 
+---
 
+## Hotel NH Aranjuez 
 
 - Con una ubicación céntrica, ideal para los huéspedes que deseen explorar la ciudad de Aranjuez.
 - Ofrece vistas al Palacio Real y al Jardín del Príncipe.

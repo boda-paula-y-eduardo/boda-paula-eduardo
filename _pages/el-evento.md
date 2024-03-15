@@ -8,6 +8,8 @@ _Última actualización: 14 de Marzo de 2024_
 
 ## ¡Queremos verte en nuestra boda!
 
+![Boda](/boda-paula-eduardo/images/novios.jpg)
+
 Estamos encantados de invitarte a nuestro enlace, que se llevará a cabo en la [**Finca Valaurea**](/boda-paula-eduardo/lugar/), un lugar muy chulo ubicado a 15 minutos en coche de Aranjuez, Madrid. Hemos preparado una celebración divertida y con buena comida para que disfrutes al máximo de este día tan especial con nosotros.
 
 ### Detalles del Evento
