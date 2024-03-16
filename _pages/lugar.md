@@ -16,8 +16,7 @@ La celebración tendrá lugar en la hermosa **Finca Valaurea**, ubicada a 15 min
 
 - Carretera Colmenar a Aranjuez M-318 KM1.5
 - Colmenar de Oreja, Madrid
-
-
+cf
 ### Cómo llegar a la Finca Valaurea desde Aranjuez
 
 Para tu comodidad, aquí tienes un mapa de Google Maps que te ayudará a encontrar fácilmente la ubicación de la Finca Valaurea:
