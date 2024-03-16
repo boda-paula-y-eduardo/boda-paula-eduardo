@@ -4,10 +4,10 @@ title: El Evento
 permalink: /el-evento/
 ---
 
-## ¡Queremos verte en nuestra boda!
 
 ![Boda](/boda-paula-eduardo/images/novios.jpg)
 
+<center>## ¡Queremos verte en nuestra boda!</center>
 *¡Hola!*
 
 *¡Nos hace mucha ilusión invitarte a nuestra boda! Para la ocasión hemos elegido la [**Finca Valaurea**](/boda-paula-eduardo/lugar/), un lugar muy chulo ubicado a 15 minutos en coche de Aranjuez, Madrid. Queremos que te lo pases en grande, así que hemos preparado una celebración llena de diversión y buena comida. Ven preparado para bailar, reír y disfrutar con nosotros y con todos los seres queridos que nos acompañarán.*
@@ -27,9 +27,10 @@ permalink: /el-evento/
 
 El evento comenzará con una ceremonia sencilla seguida de un cóctel de bienvenida, cena y fiesta hasta que el cuerpo aguante. Aquí está el itinerario **provisional** para que puedas planificar tu día:
 
-- **Ceremonia**: 19:00 - 20:00
-- **Cóctel de bienvenida**: 20:00 - 21:00
-- **Cena**: 21:00 - 23:00
+- **Llegada de invitados, fotos y bienvenida**: 19:00
+- **Ceremonia**: 19:30 - 20:00
+- **Cóctel de bienvenida**: 20:15 - 21:15
+- **Cena**: 21:30 - 23:00
 - **Fiesta y barra libre**: 23:00 - Hasta que el cuerpo aguante
 
 ### Confirma tu Asistencia
