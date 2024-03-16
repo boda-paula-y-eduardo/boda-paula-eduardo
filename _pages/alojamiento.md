@@ -10,7 +10,7 @@ Para garantizar tu comodidad durante nuestra celebración, hemos seleccionado cu
 
 ## Hotel NH Aranjuez 
 
-- Con una ubicación céntrica, ideal para los huéspedes que deseen explorar la ciudad de Aranjuez.
+- Ubicación céntrica: ideal para los huéspedes que deseen explorar la ciudad de Aranjuez.
 - Ofrece vistas al Palacio Real y al Jardín del Príncipe.
 - A 15 minutos en coche de la finca Valaurea.
 - Es la opción principal recomendada para reunir a todos los invitados en un mismo lugar.

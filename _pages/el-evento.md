@@ -4,14 +4,19 @@ title: El Evento
 permalink: /el-evento/
 ---
 
-_Última actualización: 14 de Marzo de 2024_
-
 ## ¡Queremos verte en nuestra boda!
 
 ![Boda](/boda-paula-eduardo/images/novios.jpg)
 
-Estamos encantados de invitarte a nuestro enlace, que se llevará a cabo en la [**Finca Valaurea**](/boda-paula-eduardo/lugar/), un lugar muy chulo ubicado a 15 minutos en coche de Aranjuez, Madrid. Hemos preparado una celebración divertida y con buena comida para que disfrutes al máximo de este día tan especial con nosotros.
+*¡Hola!*
 
+*¡Nos hace mucha ilusión invitarte a nuestra boda! Para la ocasión hemos elegido la [**Finca Valaurea**](/boda-paula-eduardo/lugar/), un lugar muy chulo ubicado a 15 minutos en coche de Aranjuez, Madrid. Queremos que te lo pases en grande, así que hemos preparado una celebración llena de diversión y buena comida. Ven preparado para bailar, reír y disfrutar con nosotros y con todos los seres queridos que nos acompañarán.*
+
+*¡Estamos deseando verte allí y darte un abrazo enorme!*
+
+*Paula y Eduardo*
+
+---
 ### Detalles del Evento
 
 - **Fecha**: 03 de Agosto de 2024
@@ -20,7 +25,8 @@ Estamos encantados de invitarte a nuestro enlace, que se llevará a cabo en la [
 
 ### Programa
 
-El evento comenzará con una ceremonia sencilla seguida de un cóctel de bienvenida, cena y fiesta hasta que el cuerpo aguante. Aquí está el itinerario provisional para que puedas planificar tu día:
+El evento comenzará con una ceremonia sencilla seguida de un cóctel de bienvenida, cena y fiesta hasta que el cuerpo aguante. Aquí está el itinerario **provisional** para que puedas planificar tu día:
+
 - **Ceremonia**: 19:00 - 20:00
 - **Cóctel de bienvenida**: 20:00 - 21:00
 - **Cena**: 21:00 - 23:00
@@ -30,7 +36,7 @@ El evento comenzará con una ceremonia sencilla seguida de un cóctel de bienven
 
 Para confirmar tu asistencia y ayudarnos a planificar mejor el evento, por favor completa tu registro haciendo clic en el enlace a continuación:
 
-[Regístrate aquí](https://tu_enlace_de_google_forms_aquí)
+[Regístrate aquí](https://forms.gle/STETQ7LmKj9dg1DV8)
 
 ### Cómo llegar
 
@@ -44,7 +50,7 @@ Para más detalles sobre cómo llegar a la Finca Valaurea desde Aranjuez o Madri
 
 ### Contacto
 
-Si tienes alguna pregunta o necesitas más información, no dudes en [contactarnos](mailto:tu_email@ejemplo.com).
+Si tienes alguna pregunta o necesitas más información, no dudes en contactarnos.
 
 ¡Estamos emocionados de verte y celebrar juntos este día tan especial!
 
