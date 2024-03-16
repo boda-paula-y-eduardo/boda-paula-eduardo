@@ -4,7 +4,7 @@ title: Preguntas Frecuentes sobre la Boda
 permalink: /faq/
 ---
 
-Bienvenidos a la sección de Preguntas Frecuentes (FAQ) sobre nuestra boda. Iremos actualizando esta sección con las preguntas que nos hagáis llegar para facilitaros toda la información necesaria.
+Bienvenidos a la sección de Preguntas Frecuentes sobre nuestra boda. Iremos actualizando esta sección con las preguntas que nos hagáis llegar para facilitaros toda la información necesaria.
 
 
 <details>
@@ -24,13 +24,13 @@ Proporcionaremos una lista de recomendaciones de alojamiento en la zona para aqu
 <details>
 <summary><b style="font-size: larger;">¿Habrá opciones de comida para dietas especiales?</b></summary>
 
-Sí, habrá opciones para dietas especiales. Por favor, asegúrate de indicar cualquier requerimiento alimenticio cuando confirmes tu asistencia en el [formulario de registro](https://forms.gle/STETQ7LmKj9dg1DV8).
+Sí, habrá opciones para dietas especiales. Por favor, asegúrate de indicar cualquier requerimiento alimenticio cuando confirmes tu asistencia en el <a href="https://forms.gle/STETQ7LmKj9dg1DV8">formulario de registro</a>.
 
 </details>
 
 <details>
 <summary><b style="font-size: larger;">¿Cómo puedo confirmar mi asistencia?</b></summary>
 
-Por favor, completa el [formulario de registro](https://forms.gle/STETQ7LmKj9dg1DV8) para confirmar tu asistencia. Si tienes alguna pregunta o necesitas ayuda con tu registro, no dudes en contactarnos.
+Por favor, completa el <a href="https://forms.gle/STETQ7LmKj9dg1DV8">formulario de registro</a> para confirmar tu asistencia. Si tienes alguna pregunta o necesitas ayuda con tu registro, no dudes en contactarnos.
 
 </details>
