@@ -4,19 +4,21 @@ title: Código de Vestimenta
 permalink: /codigo-vestimenta/
 ---
 
-Dado que nuestra boda se celebrará el 3 de agosto en Aranjuez, esperamos un día soleado y bastante caluroso. Queremos que todos nuestros invitados estén cómodos y disfruten de la celebración, por lo que recomendamos un código de vestimenta veraniego y elegante.
+![Outfit](/boda-paula-eduardo/images/dresscode.png)
+
+Dado que nuestra boda se celebrará el 3 de agosto en Aranjuez, esperamos una tarde soleada y bastante calurosa. Queremos que todos nuestros invitados estén cómodos y disfruten de la celebración, por lo que recomendamos un código de vestimenta veraniego y elegante. Para armonizar con el entorno natural y evitar atraer insectos, sugerimos evitar colores fosforitos o muy llamativos y optar por una paleta de colores suaves y cálidos, como tonos tierra, pasteles o incluso tonos rojizos.
 
 ### Sugerencias para las Damas
 
 - Vestidos ligeros de verano, de tejidos frescos como el algodón o el lino.
 - Calzado cómodo, teniendo en cuenta que la celebración incluirá zonas al aire libre.
 
+
 ### Sugerencias para los Caballeros
 
-- Trajes de lino o materiales ligeros, preferiblemente de colores claros.
-- Camisas de manga corta o manga larga de tejidos transpirables.
-- Se permite la elegancia casual; las corbatas son opcionales.
-- Las camisas hawaianas son siempre bienvenidas.
+- Trajes de lino o materiales ligeros. Evitar trajes oscuros o pesados para no pasar calor.
+- Camisas de tejidos transpirables y colores claros.
+- Se permite elegancia casual; corbatas opcionales.
   
 ## Temperatura esperada
 
