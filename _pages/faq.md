@@ -15,13 +15,6 @@ Estamos considerando opciones para facilitar el transporte a y desde el lugar de
 </details>
 
 <details>
-<summary><b style="font-size: larger;">¿Qué opciones de alojamiento hay disponibles?</b></summary>
-
-Proporcionaremos una lista de recomendaciones de alojamiento en la zona para aquellos que viajen desde fuera.
-
-</details>
-
-<details>
 <summary><b style="font-size: larger;">¿Habrá opciones de comida para dietas especiales?</b></summary>
 
 Sí, habrá opciones para dietas especiales. Por favor, asegúrate de indicar cualquier requerimiento alimenticio cuando confirmes tu asistencia en el <a href="https://forms.gle/STETQ7LmKj9dg1DV8">formulario de registro</a>.
