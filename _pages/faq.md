@@ -24,13 +24,13 @@ Proporcionaremos una lista de recomendaciones de alojamiento en la zona para aqu
 <details>
 <summary><b style="font-size: larger;">¿Habrá opciones de comida para dietas especiales?</b></summary>
 
-Sí, habrá opciones para dietas especiales. Por favor, asegúrate de indicar cualquier requerimiento alimenticio cuando confirmes tu asistencia en el [formulario de registro](/boda-paula-eduardo/registro/).
+Sí, habrá opciones para dietas especiales. Por favor, asegúrate de indicar cualquier requerimiento alimenticio cuando confirmes tu asistencia en el [formulario de registro](https://forms.gle/STETQ7LmKj9dg1DV8).
 
 </details>
 
 <details>
 <summary><b style="font-size: larger;">¿Cómo puedo confirmar mi asistencia?</b></summary>
 
-Por favor, completa el [formulario de registro](/boda-paula-eduardo/registro/) para confirmar tu asistencia. Si tienes alguna pregunta o necesitas ayuda con tu registro, no dudes en contactarnos.
+Por favor, completa el [formulario de registro](https://forms.gle/STETQ7LmKj9dg1DV8) para confirmar tu asistencia. Si tienes alguna pregunta o necesitas ayuda con tu registro, no dudes en contactarnos.
 
 </details>
