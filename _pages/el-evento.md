@@ -7,7 +7,8 @@ permalink: /el-evento/
 
 ![Boda](/boda-paula-eduardo/images/novios.jpg)
 
-<center>## ¡Queremos verte en nuestra boda!</center>
+## ¡Queremos verte en nuestra boda!
+
 *¡Hola!*
 
 *¡Nos hace mucha ilusión invitarte a nuestra boda! Para la ocasión hemos elegido la [**Finca Valaurea**](/boda-paula-eduardo/lugar/), un lugar muy chulo ubicado a 15 minutos en coche de Aranjuez, Madrid. Queremos que te lo pases en grande, así que hemos preparado una celebración llena de diversión y buena comida. Ven preparado para bailar, reír y disfrutar con nosotros y con todos los seres queridos que nos acompañarán.*
@@ -17,13 +18,13 @@ permalink: /el-evento/
 *Paula y Eduardo*
 
 ---
-### Detalles del Evento
+## Detalles del Evento
 
 - **Fecha**: 03 de Agosto de 2024
 - **Hora**: 19:00 - Sin hora de cierre
 - **Lugar**: Finca Valaurea, Aranjuez, Madrid
 
-### Programa
+## Programa
 
 El evento comenzará con una ceremonia sencilla seguida de un cóctel de bienvenida, cena y fiesta hasta que el cuerpo aguante. Aquí está el itinerario **provisional** para que puedas planificar tu día:
 
@@ -33,13 +34,13 @@ El evento comenzará con una ceremonia sencilla seguida de un cóctel de bienven
 - **Cena**: 21:30 - 23:00
 - **Fiesta y barra libre**: 23:00 - Hasta que el cuerpo aguante
 
-### Confirma tu Asistencia
+## Confirma tu Asistencia
 
 Para confirmar tu asistencia y ayudarnos a planificar mejor el evento, por favor completa tu registro haciendo clic en el enlace a continuación:
 
 [Regístrate aquí](https://forms.gle/STETQ7LmKj9dg1DV8)
 
-### Cómo llegar
+## Cómo llegar
 
 Aquí tienes mapa interactivo para que puedas llegar sin inconvenientes a la **Finca Valaurea** desde cualquier punto de partida:
 
@@ -49,7 +50,7 @@ Aquí tienes mapa interactivo para que puedas llegar sin inconvenientes a la **F
 
 Para más detalles sobre cómo llegar a la Finca Valaurea desde Aranjuez o Madrid, visita nuestra sección de [Lugar](/boda-paula-eduardo/lugar/).
 
-### Contacto
+---
 
 Si tienes alguna pregunta o necesitas más información, no dudes en contactarnos.
 
