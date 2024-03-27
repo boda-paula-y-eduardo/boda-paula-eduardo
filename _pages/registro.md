@@ -11,6 +11,6 @@ Para asegurar tu asistencia y una organización óptima, por favor completa tu r
 4. Envía el formulario pulsando "Enviar".
 5. ¡Listo! Os enviaremos un correo de confirmación con los detalles cuando procesemos tu registro de forma manual.
 
-**Fecha límite de registro: 1 de Abril de 2024.**
+**Fecha límite de registro: 10 de Abril de 2024.**
 
 Para consultas o problemas con el registro, contactanos. Tu participación es esencial para nosotros. ¡Nos vemos en la boda!
