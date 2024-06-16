@@ -27,3 +27,12 @@ Sí, habrá opciones para dietas especiales. Por favor, asegúrate de indicar cu
 Por favor, completa el <a href="https://forms.gle/STETQ7LmKj9dg1DV8">formulario de registro</a> para confirmar tu asistencia. Si tienes alguna pregunta o necesitas ayuda con tu registro, no dudes en contactarnos.
 
 </details>
+
+<details>
+<summary><b style="font-size: larger;">¿Hay lista de regalos?</b></summary>
+  
+No, no hay lista de regalos. Con que vengáis y os lo paséis bien es más que suficiente. Si aun así queréis
+hacernos un regalo, hablad directamente con nosotros.
+¡Gracias por vuestro cariño y generosidad!
+
+</details>
