@@ -3,6 +3,7 @@ layout: page
 title: Preguntas Frecuentes sobre la Boda
 permalink: /faq/
 ---
+*Última atualización: 01/08/2024*
 
 Bienvenidos a la sección de Preguntas Frecuentes sobre nuestra boda. Iremos actualizando esta sección con las preguntas que nos hagáis llegar para facilitaros toda la información necesaria.
 
@@ -10,7 +11,7 @@ Bienvenidos a la sección de Preguntas Frecuentes sobre nuestra boda. Iremos act
 <details>
 <summary><b style="font-size: larger;">¿Habrá transporte disponible?</b></summary>
 
-Estamos considerando opciones para facilitar el transporte a y desde el lugar de la boda. Más información estará disponible a medida que se acerque la fecha.
+Habrá un bus que saldrá del Hotel NH Aranjuez hacia la Finca Valaurea el 3 de agosto a las 18:50. Después de la celebración, habrá dos buses de vuelta al hotel NH Aranjuez desde la finca, uno a las 3:30 y otro a las 05:00. Los asientos son limitados, así que por favor informa a los novios si necesitas usar este servicio de transporte.
 
 </details>
 
