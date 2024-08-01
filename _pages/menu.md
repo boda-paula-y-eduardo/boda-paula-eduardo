@@ -63,13 +63,19 @@ En esta sección encontrarás toda la información sobre el menú de la boda.
 ### Al Carbón
 
 - Pluma y Secreto Ibérico de Bellota
-  - Origen: Guijuelo, Salamanca
-  - Productor: Carrascos Ibéricos
+
+  <div style="margin-bottom: 20px;"></div>
+
 
   <div style="text-align: center;">
-    <img src="../images/cerdos.jpg" alt="Chuletón de vaca" width="400">
+    <div style="border: 2px solid black; display: inline-block;">
+      <img src="../images/cerdos.jpg" alt="Chuletón de vaca" width="400">
+    </div>
   </div>
+    <div style="margin-bottom: 20px;"></div>
 
+  - Origen: Guijuelo, Salamanca
+  - Productor: Carrascos Ibéricos
   - Descripción: El secreto ibérico proviene de los cerdos ibéricos de Carrasco, una raza autóctona criada en libertad en las dehesas de Salamanca. Estos cerdos se alimentan principalmente de bellotas y otros frutos de la dehesa, lo que confiere a su carne un sabor y una textura excepcionales.
 
 - Picaña
@@ -81,9 +87,15 @@ En esta sección encontrarás toda la información sobre el menú de la boda.
 
   - Origen: Mohernando, Campiña de Guadalajara  
   - Productor: Las Suertes del Monte
+  <div style="margin-bottom: 20px;"></div>
+
+
   <div style="text-align: center;">
-    <img src="../images/chuleton.jpg" alt="Chuletón de vaca" width="400">
+    <div style="border: 2px solid black; display: inline-block;">
+      <img src="../images/chuleton.jpg" alt="Chuletón de vaca" width="400">
+    </div>
   </div>
+    <div style="margin-bottom: 20px;"></div>
 
   - Descripción: Este chuletón proviene de ganado 100% Angus, incluyendo Aberdeen Angus, Black Angus y Red Angus. Criados en un entorno sin estrés y con una alimentación completamente vegetal, los ejemplares de Las Suertes del Monte producen una carne de sabor inigualable. La finca se dedica a mantener altos estándares de calidad, garantizando la excelencia en cada pieza.
 
