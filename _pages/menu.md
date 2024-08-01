@@ -78,6 +78,8 @@ En esta sección encontrarás toda la información sobre el menú de la boda.
   - **Origen**: Guijuelo, Salamanca
   - **Productor**: Carrascos Ibéricos
   - **Descripción**: El secreto ibérico proviene de los cerdos ibéricos de Carrasco, una raza autóctona criada en libertad en las dehesas de Salamanca. Estos cerdos se alimentan principalmente de bellotas y otros frutos de la dehesa, lo que confiere a su carne un sabor y una textura excepcionales.
+  - **Corte**: El secreto ibérico es un corte que se encuentra entre la paleta y la panceta del cerdo. Es conocido por su veteado de grasa, lo que le da una jugosidad y un sabor únicos al cocinarlo a la parrilla o a la plancha.
+  - **Presa**: La presa ibérica es otro corte selecto del cerdo ibérico, situado entre la paleta y el lomo. Es una pieza muy jugosa y tierna, ideal para asar o cocinar a la brasa.
 
 - **Picaña**
 
@@ -104,17 +106,19 @@ En esta sección encontrarás toda la información sobre el menú de la boda.
     <div style="margin-bottom: 20px;"></div>
 
 
-  - **Origen**: Mohernando, Campiña de Guadalajara  
-  - **Productor**: Las Suertes del Monte
   <div style="margin-bottom: 20px;"></div>
 
-  - **Descripción**: Este chuletón proviene de ganado 100% Angus, incluyendo Aberdeen Angus, Black Angus y Red Angus. Criados en un entorno sin estrés y con una alimentación completamente vegetal, los ejemplares de Las Suertes del Monte producen una carne de sabor inigualable. La finca se dedica a mantener altos estándares de calidad, garantizando la excelencia en cada pieza.
+  - **Origen**: Mohernando, Campiña de Guadalajara  
+  - **Productor**: Las Suertes del Monte
+
+  - **Descripción**: Este chuletón proviene de ganado 100% Angus, incluyendo Aberdeen Angus, Black Angus y Red Angus. Criados en un entorno sin estrés y con una alimentación completamente vegetal, los ejemplares de Las Suertes del Monte producen una carne de sabor inigualable.
   - **Corte**: El chuletón es un corte grueso y jugoso que se obtiene de la parte alta del lomo de la vaca. Es conocido por su marmoleo y su sabor intenso, ideal para asar a la parrilla o a la brasa.
 
 - **Pollo con Verduras en Pinchos Morunos**
 
   - **Origen**: Pollo Campero de Origen Gallego, A Coruña
   - **Descripción**: Este pollo campero, criado en Galicia. Alimentado de forma natural y criado en condiciones óptimas, el pollo se combina con verduras frescas para crear unos pinchos morunos llenos de sabor y tradición.
+
 - **Parrillada de verduras**
 
 ### Postre
