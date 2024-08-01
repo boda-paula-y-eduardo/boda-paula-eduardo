@@ -134,3 +134,5 @@ En esta sección encontrarás toda la información sobre el menú de la boda.
 ---
 
 # Tabla de alérgenos
+
+Puedes acceder a la tabla de alergenos [aquí](https://boda-paula-y-eduardo.github.io/boda-paula-eduardo/images/alergenos.pdf).
