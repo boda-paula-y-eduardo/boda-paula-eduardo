@@ -17,7 +17,9 @@ permalink: /menu/
 
 En esta sección encontrarás toda la información sobre el menú de la boda.
 
-## Cóctel
+---
+
+# Cóctel
 
 ### Ibéricos
 
@@ -53,8 +55,9 @@ En esta sección encontrarás toda la información sobre el menú de la boda.
 - Arroz a banda
 - Arroz negro
 
+---
 
-## Cena
+# Cena
 
 ### Entreplato
 
@@ -68,9 +71,7 @@ En esta sección encontrarás toda la información sobre el menú de la boda.
 
 
   <div style="text-align: center;">
-    <div style="border: 2px solid black; display: inline-block;">
-      <img src="../images/cerdos.jpg" alt="Chuletón de vaca" width="400">
-    </div>
+      <img src="../images/cerdos.jpg" alt="Chuletón de vaca">
   </div>
     <div style="margin-bottom: 20px;"></div>
 
@@ -79,6 +80,15 @@ En esta sección encontrarás toda la información sobre el menú de la boda.
   - **Descripción**: El secreto ibérico proviene de los cerdos ibéricos de Carrasco, una raza autóctona criada en libertad en las dehesas de Salamanca. Estos cerdos se alimentan principalmente de bellotas y otros frutos de la dehesa, lo que confiere a su carne un sabor y una textura excepcionales.
 
 - **Picaña**
+
+  <div style="margin-bottom: 20px;"></div>
+
+
+  <div style="text-align: center;">
+      <img src="../images/picana.png" alt="Chuletón de vaca">
+  </div>
+    <div style="margin-bottom: 20px;"></div>
+
   - **Origen**: Sierra de Guadarrama, Madrid
   - **Productor**: Ganadería Raúl de Lema
   - **Descripción**: La ganadería Raúl de Lema, situada en la Sierra de Guadarrama, está adscrita a la Indicación Geográfica Protegida "Carne de la Sierra de Guadarrama". Su ganado pasta en libertad, siguiendo estrictas pautas de alimentación para asegurar la máxima calidad de la carne. La picaña, conocida por su jugosidad y sabor profundo, es un corte destacado de esta ganadería.
@@ -91,9 +101,7 @@ En esta sección encontrarás toda la información sobre el menú de la boda.
 
 
   <div style="text-align: center;">
-    <div style="border: 2px solid black; display: inline-block;">
-      <img src="../images/chuleton.jpg" alt="Chuletón de vaca" width="400">
-    </div>
+      <img src="../images/chuleton.jpg" alt="Chuletón de vaca">
   </div>
     <div style="margin-bottom: 20px;"></div>
 
@@ -114,3 +122,7 @@ En esta sección encontrarás toda la información sobre el menú de la boda.
 
 - La intrusa de Malasaña 2022 - D.O. Madrid
 - Raimat Albariño 2023 - D.O. Costers del Segre
+
+---
+
+# Tabla de alérgenos
